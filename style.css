@@ -71,9 +71,9 @@ html {
 /* input */
 
     .content_main_item2_screen {
-        border: gray solid 2px;
+        border: rgb(189, 189, 189) solid 2px;
         width: 35rem;
         margin: 2rem;
         height: 2.5rem;
-        border-radius: 10px;
+        border-radius: 10px / 60%;
     }
