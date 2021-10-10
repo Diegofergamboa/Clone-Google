@@ -36,7 +36,7 @@ html {
 /* logo */
 
 .content_main {
-    border: black solid 2px;
+    /* border: black solid 2px; */
     height: 35rem;
     display: flex;
     flex-flow: column wrap;
@@ -71,9 +71,23 @@ html {
 /* input */
 
     .content_main_item2_screen {
-        border: rgb(189, 189, 189) solid 2px;
+        border: 1px solid #f8f9fa;
         width: 35rem;
         margin: 2rem;
         height: 2.5rem;
         border-radius: 10px / 60%;
+    }
+
+/* buttons */
+    .content_main_item3 button {
+        height: 3.6rem;
+        border: 1px solid #f8f9fa;
+        margin: 1.1rem;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 4px;
+        color: #3c4043;
+        font-family: Arial, sans-serif;
+        padding: 0 1.6rem;
+        background-color: #f8f9fa;
     }
