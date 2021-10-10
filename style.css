@@ -8,15 +8,39 @@ html {
     font-size: 62,5%;
 }
 
+/* header items */
+
 .content_header {
+    /* border: 2px solid black; */
     width: 100%;
-    height: 12rem;
+    height: 10rem;
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
-    margin: 1rem;
 }
+    .content_header_item {
+        margin: 2% 0.2% 0.2% 2%; 
+    }
+        .content_header_item4_image {
+            margin-right: 2.5rem;
+            margin-left: 1rem;
+        }
 
     .image_logo {
         border-radius: 100%;
+        
     }
+
+/* main items */
+
+/* logo */
+
+.content_main {
+    border: black solid 2px;
+    height: 35rem;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
