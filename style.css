@@ -50,15 +50,18 @@ html {
     .content_main_item1 {
         
     }
-        .G-blue {
-            color: black;
+        .g-blue {
+            color:#4285F4;
         }
         .o-red {
-        
+            color:#DB4437;
         }
         .o-yellow {
-        
+            color:#F4B400;
         }
-        .g-blue {
-            color: red;
+        .l-green {
+            color:#0F9D58;
+        }
+        e-red {
+            color:#DB4437;
         }
