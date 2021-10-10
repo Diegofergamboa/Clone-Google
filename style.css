@@ -101,10 +101,13 @@ html {
 
 .container_footer_section1 {
     display: flex;
-    flex: row wrap;
+    flex-flow: row wrap;
 }
-
+    .container_footer_section2_nav {
+        display: flex;
+        flex-flow: row wrap;
+    }
 .container_footer_section2 {
     display: flex;
-    flex: row wrap;
+    flex-flow: row wrap;
 }
