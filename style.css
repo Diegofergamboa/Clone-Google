@@ -99,7 +99,7 @@ html {
     flex-flow: row wrap;
 }
 
-    .container_footer section {
-        display: flex;
-        flex: row wrap;
-    }
+.container_footer section {
+    display: flex;
+    flex: row wrap;
+}
