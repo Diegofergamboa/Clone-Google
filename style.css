@@ -91,3 +91,15 @@ html {
         padding: 0 1.6rem;
         background-color: #f8f9fa;
     }
+
+/* footer items */
+
+.container_footer {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+    .container_footer section {
+        display: flex;
+        flex: row wrap;
+    }
