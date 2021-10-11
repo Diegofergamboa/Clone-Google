@@ -97,6 +97,7 @@ html {
 .container_footer {
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-between;
 }
 
 .container_footer_section1 {
