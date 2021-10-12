@@ -101,14 +101,21 @@ html {
 }
 
 .container_footer_section1 {
-    display: flex;
-    flex-flow: row wrap;
+    border: black solid 2px;
 }
-    .container_footer_section2_nav {
-        display: flex;
-        flex-flow: row wrap;
-    }
-.container_footer_section2 {
+
+.container_footer_section1_ul {
+    border: black 2px solid;
     display: flex;
     flex-flow: row wrap;
+    list-style: none;
+    padding: 0 2rem;
+}
+
+.container_footer_section1_ul_item {
+    margin: 1.1rem;
+}
+
+.container_footer_section2 {
+    border: black solid 2px ;
 }
