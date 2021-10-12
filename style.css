@@ -28,7 +28,9 @@ html {
 
     .image_logo {
         border-radius: 100%;
-        
+        height: 50px;
+        width: 50px;
+        margin-top: 0.9rem;
     }
 
 /* main items */
@@ -71,7 +73,7 @@ html {
 /* input */
 
     .content_main_item2_screen {
-        border: 1px solid #f8f9fa;
+        border: 1px solid #bfccda;
         width: 35rem;
         margin: 2rem;
         height: 2.5rem;
@@ -116,10 +118,6 @@ html {
 
 .container_footer_section1_ul_item {
     margin: 1.1rem;
-}
-
-.container_footer_section2 {
-    /* border: black solid 2px ; */
 }
 
 .container_footer_section2_ul {
