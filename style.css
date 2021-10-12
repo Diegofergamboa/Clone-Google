@@ -101,15 +101,17 @@ html {
 }
 
 .container_footer_section1 {
-    border: black solid 2px;
+    /* border: black solid 2px; */
+    justify-content: space-evenly;
 }
 
 .container_footer_section1_ul {
-    border: black 2px solid;
+    /* border: black 2px solid; */
     display: flex;
     flex-flow: row wrap;
     list-style: none;
     padding: 0 2rem;
+    color: #3c4043;
 }
 
 .container_footer_section1_ul_item {
@@ -117,5 +119,18 @@ html {
 }
 
 .container_footer_section2 {
-    border: black solid 2px ;
+    /* border: black solid 2px ; */
+}
+
+.container_footer_section2_ul {
+    /* border: black 2px solid; */
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    padding: 0 2rem;
+    color: #3c4043;
+}
+
+.container_footer_section2_ul_item {
+    margin: 1.1rem;
 }
